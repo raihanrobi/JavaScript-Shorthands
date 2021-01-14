@@ -39,3 +39,5 @@ $(window).click(function() { // closes content when clicked outside.
         }
     }
 });
+
+//git_committed
