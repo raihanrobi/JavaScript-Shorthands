@@ -28,7 +28,6 @@ $('.card').click(function (event) {
 
     }
 });
-
 $(window).click(function() { // closes content when clicked outside.
     if ($('.cof_extra_details').hasClass('animate__bounceIn')) {
         if ($('.cof_card').hasClass('hovered')==false && $('.cof_extra_details').hasClass('hovered')==false) {
@@ -39,5 +38,8 @@ $(window).click(function() { // closes content when clicked outside.
         }
     }
 });
+
+
+
 
 //git_committed
